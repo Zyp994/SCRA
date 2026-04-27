@@ -89,4 +89,4 @@ We acknowledge the original authors and institutions that made these datasets pu
 | AMD-SD                           | Automated Detection of Age-related Macular Degeneration in Color Fundus Images                | [Link](http://word.ucsd.edu/)                                                                                                          |
 
 ## Code Release
-The official PyTorch implementation of the SCRA framework, including data processing scripts, model architecture, training routines, and evaluation metrics, will be publicly released upon paper acceptance. We will update this repository with a direct link to the code and pre-trained checkpoints once the manuscript is formally published. All experiments reported in the paper were conducted using PyTorch, and the released code will include clear instructions for environment setup, dataset preparation, and reproduction of results.
+The official PyTorch implementation of the SCRA framework, including data processing scripts, model architecture, training routines, and evaluation metrics, will be publicly released upon paper acceptance. 
